@@ -1,0 +1,1 @@
+This folder is for talks about Pharo and its tools.

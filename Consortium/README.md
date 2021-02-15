@@ -1,0 +1,1 @@
+This folder is for reports of the Pharo Consortium.
