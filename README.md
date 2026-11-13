@@ -1,1 +1,1 @@
-Sources of the [Pharo's talks website](http://pharo.org/Talks)
+Sources of the [Pharo's talks website](https://talks.pharo.org)
